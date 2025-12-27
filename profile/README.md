@@ -81,8 +81,8 @@
 ---
 
 ## 5. Repositories
-- Frontend: https://github.com/paradiseseo/umc-9th-Makcha/tree/f1442e5bc777c5edd6ea3f0de0445eb628d8e19c/Frontend
-- Backend: https://github.com/paradiseseo/umc-9th-Makcha/tree/f1442e5bc777c5edd6ea3f0de0445eb628d8e19c/Backend
+- Frontend: https://github.com/UMC-9th-Makcha/Frontend
+- Backend: https://github.com/UMC-9th-Makcha/Backend
 
 ---
 
